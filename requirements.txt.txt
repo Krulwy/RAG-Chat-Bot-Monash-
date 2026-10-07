@@ -5,3 +5,4 @@ langchain-classic
 langchain-google-genai
 langchain-chroma
 chromadb
+pysqlite3-binary
